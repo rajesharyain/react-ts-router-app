@@ -1,0 +1,22 @@
+h1, p {
+  font-family: Lato;
+}
+.navbar {
+  width:100%;
+  margin: 0 auto;
+  
+}
+.navbar-nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar-nav li{
+  list-style: none;
+  padding: 1em 1em ;
+}
+
+.content {
+  text-align: center;
+  margin: 0 auto;
+}
